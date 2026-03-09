@@ -26,6 +26,8 @@ def ukaz_hadane(hadane_slovo, hadane_znaky):
       print(znak + " ", end="")
     else:
       print("_ ", end="")
+  return hadane_znaky
+
 
 
 def cyklus_hry(hadane_slovo, zivoty, hadane_znaky):
