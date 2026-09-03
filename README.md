@@ -1,6 +1,11 @@
 # README
 Tento README slouží jako ukázka (a návod) k využití gitu.
 
+---
+**Repozitář není aktuální a slouží jen jako historická verze materiálů.**
+
+---
+
 ## 0. Před začátkem – založení účtu
 1. Otevři [https://github.com](https://github.com).
 2. Založ vlastní účet pomocí školního emailu.
